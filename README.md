@@ -11,7 +11,7 @@
 	To Install and setup Django environment (Open root folder in IDE and run below commands in local terminal)
 	
 		• pip install django
-		• pip install django-rest_framework
+		• pip install django-rest-framework
 		• pip install django-cors-headers
 		• pip install djoser
 		• pip install pillow	
